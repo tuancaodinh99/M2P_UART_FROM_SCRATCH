@@ -1,0 +1,9 @@
+--cpu Cortex-M7.fp.dp
+".\debug\main.o"
+".\debug\stm32h7xx_it.o"
+".\debug\system_stm32h7xx.o"
+".\debug\startup_stm32h750xx.o"
+--strict --scatter ".\Debug\M2P_UART_FROM_SCRATCH.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "M2P_UART_FROM_SCRATCH.map" -o .\Debug\M2P_UART_FROM_SCRATCH.axf

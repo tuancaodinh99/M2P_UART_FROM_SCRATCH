@@ -1,0 +1,12 @@
+.\debug\stm32h7xx_it.o: ../Core/Src/stm32h7xx_it.c
+.\debug\stm32h7xx_it.o: ../Core/Inc/main.h
+.\debug\stm32h7xx_it.o: ../Core/Inc/stm32h7xx_it.h
+.\debug\stm32h7xx_it.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h750xx.h
+.\debug\stm32h7xx_it.o: ../Drivers/CMSIS/Include/core_cm7.h
+.\debug\stm32h7xx_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debug\stm32h7xx_it.o: ../Drivers/CMSIS/Include/cmsis_version.h
+.\debug\stm32h7xx_it.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+.\debug\stm32h7xx_it.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+.\debug\stm32h7xx_it.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+.\debug\stm32h7xx_it.o: ../Drivers/CMSIS/Include/cachel1_armv7.h
+.\debug\stm32h7xx_it.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h
